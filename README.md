@@ -7,7 +7,9 @@
 
 ## References and Resources
 
-N/A
+[Geeks for Geeks](https://www.geeksforgeeks.org/android/arrayadapter-in-android-with-example/)  
+[Android Developers](https://developer.android.com/develop/ui/views/touch-and-input/keyboard-input/style)
+
 
 ## Verbal Collaboration
 
