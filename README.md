@@ -8,7 +8,8 @@
 ## References and Resources
 
 [Geeks for Geeks](https://www.geeksforgeeks.org/android/arrayadapter-in-android-with-example/)  
-[Android Developers](https://developer.android.com/develop/ui/views/touch-and-input/keyboard-input/style)
+[Android Developers](https://developer.android.com/develop/ui/views/touch-and-input/keyboard-input/style)  
+[Android Developers](https://developer.android.com/develop/ui/views/layout/linear)
 
 
 ## Verbal Collaboration
